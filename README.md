@@ -1,3 +1,3 @@
 # awscodebuild-demo
 
-### Simple Application for Learning aws codebuild and Code pipeline 
+### Simple Project for Learning aws Codebuild and Codepipeline 
