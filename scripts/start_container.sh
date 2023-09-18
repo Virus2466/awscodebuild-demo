@@ -5,4 +5,4 @@ set -e
 docker push virus2466/flask-demo-aws
 
 # run the image 
-docker run -d -p 5000:5000 virus2466/flask-demo-aws:tagname
+docker run -d -p 5000:5000 virus2466/flask-demo-aws
