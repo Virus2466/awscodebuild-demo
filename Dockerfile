@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 5000
 
 # Run the flask application 
-CMD["python" , "main.py"]
+CMD ["python" , "main.py"]
